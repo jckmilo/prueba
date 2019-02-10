@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Primer repositorio</title>
+	
+</head>
+<body>
+	
+<table style= " border-style: outset; margin:3px">
+
+<tr style =" font-size:30px; font-family:arial">
+	<th> Nombre</th>
+
+<th> Apellido </th>
+
+<th> Telefono movil </th>
+ <th> Telefono fijo </th>
+
+ <th> E-mail </th>
+</tr>
+
+<tr style=" background:#E3DCDB; font-size:25px;margin:10px">
+
+
+<td> Juan Camilo</td>
+<td>Gil Sanchez</td>
+<td> 321395480</td>
+<td> 3426456</td>
+<td> juan.camilo19930@gmail.com</td>
+
+</tr>
+
+
+
+
+
+
+</table>
+	
+	
+</body>
+</html>
